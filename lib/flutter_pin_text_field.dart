@@ -1,4 +1,4 @@
-library pin_text_field;
+library flutter_pin_text_field;
 
 import 'package:flutter/material.dart';
 

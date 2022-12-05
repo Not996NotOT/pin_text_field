@@ -1,7 +1,7 @@
-name: pin_text_field
+name: flutter_pin_text_field
 description: A simple pin text box that supports customization of cursor, border, font, etc
 version: 1.0.0
-homepage:
+homepage: https://github.com/Not996NotOT/pin_text_field
 
 environment:
   sdk: '>=2.18.4 <3.0.0'
