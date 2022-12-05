@@ -1,0 +1,1 @@
+* dart pub publish --server=https://pub.dartlang.org
